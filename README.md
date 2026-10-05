@@ -20,6 +20,7 @@ StreamWorks is a high-performance, scroll-driven web portfolio and live streamin
 ```markdown
 ![Hero & Live Now Status Banner]
 ```
+<img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/6444af3c-c452-4bea-933e-3f587f14d8a3" />
 
 
 ```markdown
