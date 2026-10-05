@@ -18,9 +18,14 @@ StreamWorks is a high-performance, scroll-driven web portfolio and live streamin
 *Displays live broadcast state (`LIVE NOW` vs `OFFLINE`), scraped follower/video/heart counts, and custom creator badges.*
 
 ```markdown
-![Hero & Live Now Status Banner]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/70ff0aac-ef68-4f7f-9046-0b31224f8736" />
+![Hero & Live Now Status Banner]
+```
+
+
+```markdown
 ![Hero & Offline Status Banner]
 ```
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0b5bab8-c87d-4450-96fe-8663b49229a4" />
 
 ---
 
@@ -30,16 +35,17 @@ StreamWorks is a high-performance, scroll-driven web portfolio and live streamin
 ```markdown
 ![Scroll Scrubbing Demo]<img width="400" height="225" alt="2026-10-05 16-09-50" src="https://github.com/user-attachments/assets/a16b2e5e-317e-40ee-b8b9-9855bbfd998e" />
 ```
-<img width="400" height="225" alt="2026-10-05 16-09-50" src="https://github.com/user-attachments/assets/ba146d6c-c4d3-460a-aaad-6d964133f4f4" />
+<img width="1000" height="825" alt="2026-10-05 16-09-50" src="https://github.com/user-attachments/assets/ba146d6c-c4d3-460a-aaad-6d964133f4f4" />
 
 ---
 
 #### 3. Interactive Creator Support Modal
-*Donation launcher overlay with preset amounts and direct payment platform integration.*
+*Donation launcher overlay to direct payment platform integration.*
 
 ```markdown
-![Donation Modal Preview](./docs/screenshots/saweria-modal.png)
+![Donation Modal Preview]
 ```
+<img width="1000" height="825" alt="2026-10-05 16-19-55" src="https://github.com/user-attachments/assets/d9055ee6-3634-4985-b0f7-4ca6811cdbea" />
 
 ---
 
