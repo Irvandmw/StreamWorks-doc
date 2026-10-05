@@ -35,7 +35,7 @@ StreamWorks is a high-performance, scroll-driven web portfolio and live streamin
 ```markdown
 ![Scroll Scrubbing Demo]<img width="400" height="225" alt="2026-10-05 16-09-50" src="https://github.com/user-attachments/assets/a16b2e5e-317e-40ee-b8b9-9855bbfd998e" />
 ```
-<img width="1000" height="825" alt="2026-10-05 16-09-50" src="https://github.com/user-attachments/assets/ba146d6c-c4d3-460a-aaad-6d964133f4f4" />
+<img width="800" height="525" alt="2026-10-05 16-09-50" src="https://github.com/user-attachments/assets/ba146d6c-c4d3-460a-aaad-6d964133f4f4" />
 
 ---
 
@@ -45,7 +45,7 @@ StreamWorks is a high-performance, scroll-driven web portfolio and live streamin
 ```markdown
 ![Donation Modal Preview]
 ```
-<img width="1000" height="825" alt="2026-10-05 16-19-55" src="https://github.com/user-attachments/assets/d9055ee6-3634-4985-b0f7-4ca6811cdbea" />
+<img width="800" height="525" alt="2026-10-05 16-19-55" src="https://github.com/user-attachments/assets/d9055ee6-3634-4985-b0f7-4ca6811cdbea" />
 
 ---
 
